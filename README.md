@@ -13,6 +13,7 @@ pip install plotly==5.14.1
 pip install seaborn
 pip install ipywidgets
 ```
+Download the 'photos_streamlit' folder to be able to run the streamlit and check the path to the photos
 
 ## Usage
 
